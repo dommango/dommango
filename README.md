@@ -1,4 +1,4 @@
-# Hi, I'm Dominic 👋
+# Hi, I'm Dom 👋
 
 I'm a lifelong learner and a self-taught **"vibecoder"** — still very much a
 beginner, building things mostly to figure out how they work. I lean on AI tools
