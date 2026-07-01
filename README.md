@@ -1,11 +1,8 @@
-# Hi, I'm Dom 👋
 
-I'm a lifelong learner and a self-taught **"vibecoder"** — still very much a
-beginner, building things mostly to figure out how they work. I lean on AI tools
-a lot, break plenty along the way, and learn something every time. These are my
-experiments more than my portfolio.
+Non-trad dev and lifelong learner, building things "on the vibe" mostly to figure out how they work. I play around with whatever looks fun on github, break plenty along the way, and learn something every time. These are my
+experiments more than my portfolio and you'll see that reflected in the mess that is my commit history. Enjoy! 
 
-### 🌱 Things I'm tinkering with
+### Things I'm tinkering with
 
 - **[claude-code-placemat](https://github.com/dommango/claude-code-placemat)** —
   a single-page cheatsheet for Claude Code that an agent tries to keep up to date
@@ -21,14 +18,7 @@ experiments more than my portfolio.
   poking at controlling a live VCV Rack patch from an MCP client like Claude
   Desktop. Way over my head, learning a ton. *(C++)*
 
-### 🧰 Still learning
-
-`TypeScript` · `Next.js` · `Python` · `Prisma` · `Claude Code & MCP`
-
-…and a lot more I haven't gotten to yet. Suggestions, corrections, and "you
-should try X" are all very welcome.
-
-### 👋 Say hi
+### Say hi
 
 [GitHub](https://github.com/dommango) — or open an issue on any repo. Always
 happy to learn from people who've been at this longer than me.
