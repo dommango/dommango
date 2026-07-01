@@ -1,3 +1,4 @@
+### About me
 
 Non-trad dev and lifelong learner, building things "on the vibe" mostly to figure out how they work. I play around with whatever looks fun on github, break plenty along the way, and learn something every time. These are my
 experiments more than my portfolio and you'll see that reflected in the mess that is my commit history. Enjoy! 
@@ -17,8 +18,3 @@ experiments more than my portfolio and you'll see that reflected in the mess tha
 - **[vcv-rack-plugin-mcp-server](https://github.com/dommango/vcv-rack-plugin-mcp-server)** —
   poking at controlling a live VCV Rack patch from an MCP client like Claude
   Desktop. Way over my head, learning a ton. *(C++)*
-
-### Say hi
-
-[GitHub](https://github.com/dommango) — or open an issue on any repo. Always
-happy to learn from people who've been at this longer than me.
