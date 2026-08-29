@@ -1,13 +1,14 @@
 ### About me
 
-Non-trad dev and lifelong learner, building things "on the vibe" mostly to figure out how they work. I play around with whatever looks fun on github, break plenty along the way, and learn something every time. These are my
-experiments more than my portfolio and you'll see that reflected in the mess that is my commit history. Enjoy! 
+Non-trad dev but a lifelong learner, building things mostly to figure out how they work. I'll play around with whatever looks fun on github, break plenty along the way, and and always learn something every time. 
+
+These are my experiments more than my portfolio and you'll see that reflected in the mess that is my commit history. Enjoy!
 
 ### Things I'm tinkering with
 
 - **[claude-code-placemat](https://github.com/dommango/claude-code-placemat)** —
   a single-page cheatsheet for Claude Code that an agent tries to keep up to date
-  on its own. My little experiment in "can this maintain itself?"
+  on its own. My first experiment in "can this maintain itself?"
   [Have a look →](https://dommango.github.io/claude-code-placemat/)
 - **[carecover](https://github.com/dommango/carecover)** — a small app to
   coordinate caregiving shifts over text. Post a window, family claims blocks,
