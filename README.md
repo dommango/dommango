@@ -1,6 +1,6 @@
 ### About me
 
-Non-trad dev but a lifelong learner, building things mostly to figure out how they work. I'll play around with whatever looks fun on github, break plenty along the way, and and always learn something every time. 
+Non-traditional developer and lifelong learner, building things mostly to figure out how they work. I'll play around with whatever looks fun on github, break plenty along the way, and and always learn something every time. 
 
 These are my experiments more than my portfolio and you'll see that reflected in the mess that is my commit history. Enjoy!
 
